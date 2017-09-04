@@ -49,5 +49,7 @@ there are some react-native learning notes
 
 [ React Native仿美团下拉菜单](http://blog.csdn.net/xiangzhihong8/article/details/76862097)
 
+[30 Days of React Native](https://github.com/fangwei716/30-days-of-react-native)
 
+[react-native 之布局篇](https://segmentfault.com/a/1190000002658374)
 
